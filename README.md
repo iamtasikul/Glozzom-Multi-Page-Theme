@@ -1,1 +1,1 @@
-# Glozzom-Multi-Page-Theme
+# BootstrapStarter
